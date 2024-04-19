@@ -1,2 +1,3 @@
-# simretribusi
-Sistem Informasi Manajemen Retribusi Kebersihan Untuk Dinas Kebersihan
+# Retribution Management Information System (Indonesian version)
+
+A Management Information System that is highly important for the management of cleaning fees.
